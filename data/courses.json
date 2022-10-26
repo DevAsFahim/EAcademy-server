@@ -1,0 +1,136 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "duration": 200,
+      "title": "Learn Figma - UI/UX Design Essential Training",
+      "sub_title": "Learn how to design a beautiful and engaging mobile app with Figma. Learn-by-doing approach.",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "seller": "Best seller",
+      "price": 80,
+      "total_class": 50,
+      "image_url": "https://creativelayers.net/themes/educrat-html/img/coursesCards/1.png",
+      "details": "Figma is a very powerful application that runs online. There are virtually no platform boundaries when it comes to using figma because you can design within a web browser or using their desktop application made for windows and macs. Figma is similar to Sketch and Adobe XD but is the more powerful of the three when it comes to team collaboration and responsive, fast paced design. This course will cover user interface designing using the powerful tools within Figma. In the first section, I'll cover the Figma interface and where you can find powerful tools like constraints to make your designs responsive, and components to build a library of design elements to use throughout your projects. I'll also go over real-time team collaboration and how you can use figma to work closely with others in the same project. Later on I will guide you through designing and prototyping a Chef's Recipes App which will include multiple, custom icon designs, editing images and text, and everything else you need to create a polished realistic design. Please join me as a beginner in design or as a seasoned UI/UX designer wanting to switch from other tools like Sketch or Adobe XD"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "duration": 148,
+      "title": "Complete Python Bootcamp From Zero to Hero in Python",
+      "sub_title": "Master Python Programming by building 100+ REAL PROJECTS . Learn OOP, Automation,GUI,REST and more to create your APPs.",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "price": 40,
+      "total_class": 30,
+      "image_url": "https://creativelayers.net/themes/educrat-html/img/coursesCards/2.png",
+      "details": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python. The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search. And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course. By the end of the course you will be able to apply in confidence for Python programming jobs. And yes, this applies even if you have never programmed before. With the right skills which you will learn in this course, you can become employable and valuable in the eyes of future employers."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "03",
+      "rating": { "number": 3.5, "badge": "Good" },
+      "duration": 130,
+      "title": "Angular - The Complete Guide (2022 Edition)",
+      "sub_title": "Master Angular 13 (formerly 'Angular 2') and build awesome, reactive web apps with the successor of Angular.js.",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "seller": "Best seller",
+      "price": 20,
+      "total_class": 39,
+      "image_url": "https://creativelayers.net/themes/educrat-html/img/coursesCards/3.png",
+      "details": "Join the most comprehensive and bestselling Angular course on Udemy and learn all about this amazing framework from the ground up, in great depth! This course starts from scratch, you neither need to know Angular 1 nor Angular 2! Angular 13 simply is the latest version of Angular 2, you will learn this amazing framework from the ground up in this course! Join the most comprehensive, popular and bestselling Angular course on Udemy and benefit not just from a proven course concept but from a huge community as well! From Setup to Deployment, this course covers it all! You'll learn all about Components, Directives, Services, Forms, Http Access, Authentication, Optimizing an Angular App with Modules and Offline Compilation and much more - and in the end: You'll learn how to deploy an application! But that's not all! This course will also show you how to use the Angular CLI and feature a complete project, which allows you to practice the things learned throughout the course! And if you do get stuck, you benefit from an extremely fast and friendly support - both via direct messaging or discussion. You have my word!"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "04",
+      "rating": { "number": 4, "badge": "Excellent" },
+      "duration": 288,
+      "title": "The Ultimate Drawing Course Beginner to Advanced",
+      "sub_title": "Join one of the best drawing courses for beginners!.",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "seller": "Best seller",
+      "price": 190,
+      "total_class": 70,
+      "image_url": "https://www.rankred.com/wp-content/uploads/2019/07/Imaginary-Character-.jpg",
+      "details": "Enroll in this course to learn how to draw from the get-go. This online drawing course goes straight to the point. It will teach you in a short amount of time everything you need to know so you can draw realistic portraits and whatever else you would want to draw. Whether it's for your own projects or drawing for others. This course is your path to gaining drawing skills you may never have imagined you could have. My name is Amelia, also known as teacher K, and a few years ago, I couldn’t draw. And I thought only certain talented people could but I had a crazy desire to make amazing art, even though I was always extremely disappointed with my results. With a lot of perseverance and time, I managed to teach myself different techniques that allowed me to now draw like a pro! I only wish I could have found these techniques when I was a beginner and that's why I decided to create this drawing course. I'll give you methods and tricks that will quickly allow you to draw very well, and become a drawing pro yourself. Anyone can learn to be a great drawing artist. Believe it or not, it's the truth! It is a skill you can master at any age with determination and the right learning process."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "category_id": "05",
+      "rating": { "number": 5, "badge": "Excellent" },
+      "duration": 120,
+      "title": "Photography Masterclass: A Complete Guide to Photography",
+      "sub_title": "The Best Online Professional Photography Class: How to Take Amazing Photos for Beginners & Advanced Photographers.",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "seller": "Best seller",
+      "price": 40,
+      "total_class": 20,
+      "image_url": "https://creativelayers.net/themes/educrat-html/img/coursesCards/5.png",
+      "details": "-Beginners that have little to no experience and want to become a skilled photographer without spending thousands of dollars on expensive camera equipment. -Anyone that wants to develop a more impressive portfolio or social media account (i.e. Instagram). -Anyone that wants to make professional digital photography into an exciting career. You'll learn all the basics of professional iPhone photography in this course as well as plenty of tips and tricks that you can use during every day shooting to make your photos stand out from the rest. This course gets straight to the point with the most useful and practical information so that you can get out shooting as quickly as possible."
+    },
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "category_id": "06",
+      "rating": { "number": 5, "badge": "Excellent" },
+      "duration": 300,
+      "title": "Instagram Marketing. Complete Guide To Instagram Growth",
+      "sub_title": "Attract Hyper-Targeted Instagram Followers, Convert Followers to Paying Customers, & Expand your Brand Using Instagram.",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "seller": "Best seller",
+      "price": 88,
+      "total_class": 70,
+      "image_url": "https://creativelayers.net/themes/educrat-html/img/coursesCards/6.png",
+      "details": "Before I show you all the great things you will learn in this course. Let me tell you that my goal is to help you use all the Power of Instagram to exponentially increase your sales, crush your competitors and become an Instagram Leader in your niche while having a great time creating a community of raving fans that love your products and are addicted to your Instagram content. This is not a course like other courses where you watch the videos and never implement anything. Here we'll be working with actions and results. To guarantee that by the end of the course, you will absolutely dominate Instagram and have real results, using the best Instagram and social media marketing strategies used by large corporations that make thousands of dollars every day, strategies that you will start using today. Using the right strategies will give you outstanding results, increasing your sales, increasing the number of customers and your relationship with them, growing the number of Likes on your photos, views on your videos, and inspiring your followers to take action and buy your products or services. Welcome to the Ultimate Instagram Marketing training in Udemy. This course will teach you how to reach hundreds, thousands, or millions of people on Instagram and convert them into clients and raving fans. We'll create and optimize your powerful Instagram account to ensure that when somebody visits your profile, they FOLLOW YOU!"
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "category_id": "07",
+      "rating": { "number": 4, "badge": "Excellent" },
+      "duration": 100,
+      "title": "Complete Blender Creator: Learn 3D Modelling for Beginners",
+      "sub_title": "Use Blender to Create Beautiful 3D models for Video Games, 3D Printing & More. Beginners Level Course.",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "price": 30,
+      "total_class": 20,
+      "image_url": "https://creativelayers.net/themes/educrat-html/img/coursesCards/7.png",
+      "details": "Have you ever wanted to create 3D models? In the era of technology, at-home digital entertainment is more popular than ever and is showing no sign of slowing. Maybe you’d like to try your hand at making your own animated film, or perhaps, you want to create your own video game. Whether you’re new to working with Blender, or hoping to make a career out of it, 3D creation isn’t only for the pros. And we’re here to teach you how to do it like a pro. And we’re here to teach you how to create incredible designs. In this course we will teach you everything you need to know in order to get started using Blender, a powerful, versatile, and – best of all - free software, that can allow you to fully create 3D objects, scenes, and even characters. This course will cover Blender from an absolute beginner’s perspective, showing you how to download and run the program, the basics of 3D space, modeling, sculpting, texturing, and lighting. By the end of the course, you will be able to bring your ideas from concept all the way to a finished and finalized model ready to be integrated into any game engine or animation. The only limit to what you can build is your imagination."
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "category_id": "08",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "duration": 67,
+      "title": "The Complete Financial Analyst Training & Investing Course",
+      "sub_title": "Excel, Accounting, Financial Statement Analysis, Business Analysis, Financial Math, PowerPoint: Everything is Included!.",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "seller": "Best seller",
+      "price": 43,
+      "total_class": 20,
+      "image_url": "https://creativelayers.net/themes/educrat-html/img/coursesCards/8.png",
+      "details": "1 Best Selling Investing Course on Udemy! Welcome to The COMPLETE Financial Analyst Training and Investing Course by the author of the best selling business course on Udemy, an award winning professor, Columbia MBA graduate, former Goldman, hedge fund founder, venture capitalist, TEDx Talk speaker, author & entrepreneur featured in Forbes, Business Insider, Wired & Venture Beat. I guarantee that this is THE most thorough financial analyst course available ANYWHERE on the market - or your money back. This is the most thorough and longest course I have ever made and anyone can take it and see remarkable improvements in how competitive they are in the finance industry as a financial analyst or as an investor. CONGRATULATIONS! You have just been hired by Morgan Sachs Company (MHS), which is the world's #1 (pretend) finance company. You will be going through our new hire Financial Analyst Training Program boot camp. You will learn a lot about finance in this training program with NO THEORY as you will be dealing with the employees and clients of our firm MHS Company in edutaining interactive case studies. This course is taught by Chris Haroun who also went through the Goldman Sachs financial analyst training program as well as the new hire training programs of other top finance companies. Chris has also started his own hedge fund and venture capital firms and is an award winning MBA school professor. He teaches based on real life practical experience. Do you have what it takes to complete this 22+ hour comprehensive finance training program? I'll see you on the other side. "
+    }
+]
